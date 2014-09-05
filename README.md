@@ -2,7 +2,21 @@
 
 ## Description
 
-Add a short description of your app.
+# Decide For Me
+
+Crowd source your decision making process
+
+can't decide what to do? ask your friends
+
+1. enter two options
+2. fill in pros and cons for each decision, add any needed information for the decision
+3. set a limiter (time or # of responses)
+4. crowd source for help with the decision. this can be invite only, or open to the public
+5. view the results and act on the decision
+
+options:
+post public, or private (only link invite)
+post as you, or post anonymously
 
 ## Screenshots
 
